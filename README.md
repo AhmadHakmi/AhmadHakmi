@@ -28,4 +28,4 @@ Backend developer focused on Python, APIs, and clean architecture.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📫 Contact
-- GitHub: https://github.com/AhmadHakmi
+- 📧 [Email Me](mailto:4320010@upm.edu.sa)
