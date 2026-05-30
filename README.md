@@ -1,6 +1,8 @@
 # Hi, I'm Ahmed 👋
 
-Backend developer focused on Python, APIs, and clean architecture.
+Software engineering student focused on backend development, REST API design, and software architecture. Experienced in 
+building software systems using Python, Java, FastAPI, SQL, and Git, with an emphasis on scalable, maintainable code, clean 
+architecture, and solving real-world problems
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
